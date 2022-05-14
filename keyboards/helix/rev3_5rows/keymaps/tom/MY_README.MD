@@ -1,8 +1,7 @@
 # Helix notes
 
 Build command:
-make helix/rev3_5rows:tom:dfu-split-left
-make helix/rev3_5rows:tom:dfu-split-right
+make helix/rev3_5rows:tom:dfu
 
 When updating the keymap:
 # TODO: I could replace this with a script that does both steps
